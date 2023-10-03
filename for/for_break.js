@@ -4,6 +4,7 @@ let funcionarios = [
     {id: 3, nome: "Renan", habilitado: true},
     {id: 4, nome: "Marlon", habilitado: true},
     {id: 5, nome: "Ana", habilitado: false},
+    {id: 6, nome: "Douglas", habilitado: true},
 ];
 
 let encontrouHabilitado = false;
