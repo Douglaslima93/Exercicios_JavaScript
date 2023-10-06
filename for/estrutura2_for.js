@@ -1,4 +1,4 @@
-let valor_produto = 500
+let valor_produto = 1000
 let numero_parcelas = 5
 
 for (let contador = 1 ; contador <=numero_parcelas; contador++)
