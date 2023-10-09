@@ -1,4 +1,4 @@
-let alunos = ["Diego", "Carlos", "Danilo", "Pedro", "César"]
+let alunos = ["Diego", "Carlos", "Danilo", "Pedro", "César", "Alex"]
 
 let contador = 0
 
