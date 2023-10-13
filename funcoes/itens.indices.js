@@ -2,7 +2,8 @@ const cores= [
     'Verde',
     'Amarelo',
     'Azul',
-    'Branco'
+    'Branco',
+    'Vermelho,
 ];
 
 let index= 0;
