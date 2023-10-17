@@ -1,4 +1,4 @@
-let numeros = [10, 5, 7, 8, 9, 6, 12, 4, 3,47,34,20];
+let numeros = [10, 5, 7, 8, 9, 6, 12, 4, 3, 47, 34 , 20, 15, 50];
 
 let total_impares = 0;
 let total_pares = 0;
