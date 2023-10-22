@@ -4,6 +4,7 @@ const cores= [
     'Azul',
     'Branco',
     'Vermelho,
+    'Roxo',
 ];
 
 let index= 0;
